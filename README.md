@@ -13,10 +13,10 @@ Pour exécuter ce projet, suivez ces étapes :
 ## Fonctionnalités de l'application 🪐
 
 L'application comprend les fonctionnalités suivantes :
-- Créer (Create)
-- Lire (Read)
-- Mettre à jour (Update)
-- Supprimer (Delete)
+- Créer 
+- Lire 
+- Mettre à jour 
+- Supprimer 
 
 ## Développement de l'interface utilisateur 🌞
 
