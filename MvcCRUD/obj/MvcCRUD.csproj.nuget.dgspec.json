@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projet 2023\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj": {}
+    "D:\\Projet 2023\\CRUD-ASP.NET-CORE-MVC-.NET-6\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj": {}
   },
   "projects": {
-    "D:\\Projet 2023\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj": {
+    "D:\\Projet 2023\\CRUD-ASP.NET-CORE-MVC-.NET-6\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projet 2023\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj",
+        "projectUniqueName": "D:\\Projet 2023\\CRUD-ASP.NET-CORE-MVC-.NET-6\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj",
         "projectName": "MvcCRUD",
-        "projectPath": "D:\\Projet 2023\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj",
+        "projectPath": "D:\\Projet 2023\\CRUD-ASP.NET-CORE-MVC-.NET-6\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj",
         "packagesPath": "C:\\Users\\tania\\.nuget\\packages\\",
-        "outputPath": "D:\\Projet 2023\\MvcCRUD\\MvcCRUD\\obj\\",
+        "outputPath": "D:\\Projet 2023\\CRUD-ASP.NET-CORE-MVC-.NET-6\\MvcCRUD\\MvcCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tania\\AppData\\Roaming\\NuGet\\NuGet.Config",

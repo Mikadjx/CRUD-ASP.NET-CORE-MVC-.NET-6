@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qUsiQIVOxl5z9XM3uDpHOJMb1UjDbjZAqOkKNjJIAQdpTX3s2JB/4eB4OOFvBk5F3oVy0aKJhZGDlpx6Awl+A==",
+  "dgSpecHash": "H8lNR6GTCQp0/rYxhmPQlCBFQ2s+CA3cehuTryZscIKPViAh5184vr3rCH6MRPZYOL58daYDsa2MHMqSlBo3aw==",
   "success": true,
-  "projectFilePath": "D:\\Projet 2023\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj",
+  "projectFilePath": "D:\\Projet 2023\\CRUD-ASP.NET-CORE-MVC-.NET-6\\MvcCRUD\\MvcCRUD\\MvcCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tania\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\tania\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
